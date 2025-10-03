@@ -1,4 +1,4 @@
-🫀 Heart Disease Prediction using Logistic Regression & Streamlit
+#🫀 Heart Disease Prediction using Logistic Regression & Streamlit
 
 This project predicts the likelihood of a person having heart disease based on clinical parameters using Machine Learning. The model is built with Logistic Regression and deployed using Streamlit for an interactive user interface.
 
